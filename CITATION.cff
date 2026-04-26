@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+title: "Climate Risk Assessment for Kazakhstan"
+abstract: >-
+  An adaptation of the CLIMAAX CRA Handbook for Kazakhstan,
+  replacing European-specific datasets with globally available
+  alternatives while maintaining the original scientific methodology.
+  Covers climate risk assessment for droughts, heatwaves, floods,
+  wildfire, and extreme precipitation across Kazakhstan's oblasts.
+authors:
+  - family-names: 
+    given-names: 
+type: software
+repository-code: 'https://github.com/Zeveow11/climaax-kazakhstan'
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+references:
+  - type: software
+    title: "CLIMAAX CRA Handbook"
+    authors:
+      - name: CLIMAAX
+        website: 'https://www.climaax.eu'
+    doi: 10.5281/zenodo.18186357
+    url: 'https://handbook.climaax.eu/'
+    repository-code: 'https://github.com/CLIMAAX/crabook'
