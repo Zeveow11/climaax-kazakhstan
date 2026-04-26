@@ -114,6 +114,13 @@ _build/
 **/*.xlsx
 **/*.docx
 
+!crabook/KAZ_BORDER_VERSION_1/LVL3/SHP_LVL3/
+!crabook/KAZ_BORDER_VERSION_1/LVL3/SHP_LVL3/*.shp
+!crabook/KAZ_BORDER_VERSION_1/LVL3/SHP_LVL3/*.dbf
+!crabook/KAZ_BORDER_VERSION_1/LVL3/SHP_LVL3/*.prj
+!crabook/KAZ_BORDER_VERSION_1/LVL3/SHP_LVL3/*.shx
+!crabook/KAZ_BORDER_VERSION_1/LVL3/SHP_LVL3/*.cpg
+
 **/*.csv
 **/*.tsv
 **/*.geojson
